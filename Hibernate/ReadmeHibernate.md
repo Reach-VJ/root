@@ -3,9 +3,13 @@
  **Primary Key** : Identify a unique row in a table.
  
 **Foreign key** : Links tables together
+
               A field in one table that refers to primary key in another table.
+              
               Referential integrity.
+              
               Prevents the operations that would destroy relationship.
+              
               Ensures only valid data inserted into foreign key column. 
               
  **Cascade** : Apply the same operation to related entities. If data update or delete in parent table
