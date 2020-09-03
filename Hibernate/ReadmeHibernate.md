@@ -1,4 +1,4 @@
-##### **Hibernate Demo**
+## **Hibernate Demo**
 
  **Primary Key** : Identify a unique row in a table.
  
@@ -17,12 +17,14 @@
  
  **Relation ships**
  One to One --> Example Instructor --> Instructor details.
- ![Alt text](images/one2one.png?raw=true "Optional Title")
+ 
+ <img src="mages/one2one.png" width=50% height=50%>
  
  **Entity Lifecycle**
  
-  ![Alt text](images/entitylifecycle.png?raw=true "Optional Title")
-  ![Alt text](images/entitylifecycle2.png?raw=true "Optional Title")
+  <img src="images/entitylifecycle.png" width=50% height=50%>
+  
+  <img src="images/entitylifecycle2.png" width=50% height=50%>
   
   <img src="images/entitylifecycle.png" width=50% height=50%>
  
