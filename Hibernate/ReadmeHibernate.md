@@ -26,7 +26,6 @@
   <img src="images/entitylifecycle.png" width=50% height=50%>
   
   <img src="images/entitylifecycle2.png" width=50% height=50%>
-  
-  <img src="images/entitylifecycle.png" width=50% height=50%>
+
  
  
