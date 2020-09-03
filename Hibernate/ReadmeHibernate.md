@@ -26,6 +26,6 @@
   
   [[images/entitylifecycle.png | width=100px | alt=Bridge]]
   
-  <img src="/images/entitylifecycle.png" width=50% height=50%>
+  <img src="images/entitylifecycle.png" width=50% height=50%>
  
  
