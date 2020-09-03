@@ -16,9 +16,10 @@
  <p>    Lazy : will retrieve on request.
  
  **Relation ships**
+ 
  One to One --> Example Instructor --> Instructor details.
  
- <img src="mages/one2one.png" width=50% height=50%>
+ <img src="images/one2one.png" width=50% height=50%>
  
  **Entity Lifecycle**
  
