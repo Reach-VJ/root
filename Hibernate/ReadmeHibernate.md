@@ -24,8 +24,6 @@
   ![Alt text](images/entitylifecycle.png?raw=true "Optional Title")
   ![Alt text](images/entitylifecycle2.png?raw=true "Optional Title")
   
-  [[images/entitylifecycle.png | width=100px | alt=Bridge]]
-  
   <img src="images/entitylifecycle.png" width=50% height=50%>
  
  
