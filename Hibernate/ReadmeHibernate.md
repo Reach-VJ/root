@@ -60,7 +60,9 @@ Links tables together
 
   **One to Many bi direction relationship**
   
-  Instructo teaches multiple courses
+  Instrucor teaches multiple courses. 
+  Should not delete course if there is any change instructor.
+  Should not delete instructor if there is any change in course.
   
   <img src="images/one2manycourse.png" width=50% height=50%>
   
