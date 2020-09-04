@@ -58,7 +58,13 @@ Links tables together
   
   <img src="images/bidirectionchildonlydelete2.png" width=50% height=50%>
 
-
+  **One to Many bi direction relationship**
+  
+  Instructo teaches multiple courses
+  
+  <img src="images/one2manycourse.png" width=50% height=50%>
+  
+  <img src="images/one2manyinstructor.png" width=50% height=50%>
   
 
   
