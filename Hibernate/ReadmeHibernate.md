@@ -43,6 +43,11 @@ Links tables together
   **One to One relation in tables in java code**
   
   <img src="images/one2onerelation.png" width=50% height=50%>
+  
+  **One to One bi direction relation to get parent object**
+  
+  <img src="images/bidirectional.png" width=50% height=50%>
+  
 
   
 
