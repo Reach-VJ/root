@@ -15,6 +15,10 @@ Links tables together
  **Data loading :**
  <p>    Eager : will retrieve everything.
  <p>    Lazy : will retrieve on request.
+  
+**Delete data**
+
+ <img src="images/deletedatafromdb.png" width=50% height=50%>
  
  **Relation ships**
  
@@ -31,6 +35,8 @@ Links tables together
   **One to One Cascase Types**
   
   <img src="images/one2onecascadetype.png" width=50% height=50%>
+  
+
 
  
  
