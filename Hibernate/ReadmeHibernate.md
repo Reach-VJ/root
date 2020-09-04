@@ -48,6 +48,10 @@ Links tables together
   
   <img src="images/bidirectional.png" width=50% height=50%>
   
+   **One to One bi direction delete child and parent object**
+  
+  <img src="images/bidirectiondelete.png" width=50% height=50%>
+  
 
   
 
