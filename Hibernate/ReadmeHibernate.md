@@ -52,6 +52,14 @@ Links tables together
   
   <img src="images/bidirectiondelete.png" width=50% height=50%>
   
+  **One to One bi direction delete child only**
+  
+  <img src="images/bidirectionchildonlydelete1.png" width=50% height=50%>
+  
+  <img src="images/bidirectionchildonlydelete2.png" width=50% height=50%>
+
+
+  
 
   
 
