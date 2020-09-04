@@ -16,6 +16,10 @@ Links tables together
  <p>    Eager : will retrieve everything.
  <p>    Lazy : will retrieve on request.
   
+**Insert data**
+
+ <img src="images/insertdata.png" width=50% height=50%>
+  
 **Delete data**
 
  <img src="images/deletedatafromdb.png" width=50% height=50%>
