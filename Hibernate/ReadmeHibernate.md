@@ -40,6 +40,11 @@ Links tables together
   
   <img src="images/one2onecascadetype.png" width=50% height=50%>
   
+  **One to One relation in tables in java code**
+  
+  <img src="images/one2onerelation.png" width=50% height=50%>
+
+  
 
 
  
