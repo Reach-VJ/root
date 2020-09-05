@@ -88,7 +88,7 @@ Links tables together
    
    <img src="images/lazyloadingtechniques.png" width=50% height=50%>
    
-   **Retrieve Lazy data techninques by HQL FETCH query**
+   **Retrieve Lazy data by HQL FETCH query**
    
    <img src="images/hqljointofetchdata.png" width=50% height=50%>
   
