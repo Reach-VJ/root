@@ -98,7 +98,7 @@ Links tables together
   
    **Many to Many relation Annotaion details**
    
-   * Course has many studetns.
+   * Course has many students.
    * Student has many courses.
    * Join table to maintain ManyToMany relation.
    
