@@ -96,6 +96,15 @@ Links tables together
    
    <img src="images/manytomanyrelation.png" width=50% height=50%>
   
+   **Many to Many relation Annotaion details**
+   
+   * Course has many studetns.
+   * Student has many courses.
+   * Join table to maintain ManyToMany relation.
+   
+   <img src="images/manytomanyCourseStudents.png" width=50% height=50%>
+   
+   <img src="images/manytomanyStudentCourses.png" width=50% height=50%>
 
   
 
