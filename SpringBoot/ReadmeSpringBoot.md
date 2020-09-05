@@ -1,6 +1,8 @@
 ### SpringBoot Demo
-**Many to Many relation Annotaion details**
-   
+**Pain points to build Mavan Spring Application**
+
+ <img src="images/mavenpainpoints.png" width=50% height=50%>
+ 
 * Course has many students.
 * Student has many courses.
 * Join table to maintain ManyToMany relation.
