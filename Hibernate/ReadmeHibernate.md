@@ -91,6 +91,10 @@ Links tables together
    **Retrieve Lazy data by HQL FETCH query**
    
    <img src="images/hqljointofetchdata.png" width=50% height=50%>
+   
+   **Many to Many relation ER Daigram**
+   
+   <img src="images/manytomanyrelation.png" width=50% height=50%>
   
 
   
