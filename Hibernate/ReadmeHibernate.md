@@ -68,6 +68,10 @@ Links tables together
   
   <img src="images/one2manyinstructor.png" width=50% height=50%>
   
+   **Default Fetch Type**
+   
+   <img src="images/defaultfetchtype.png" width=50% height=50%>
+  
 
   
 
