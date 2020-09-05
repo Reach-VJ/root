@@ -72,11 +72,25 @@ Links tables together
    
    <img src="images/defaultfetchtype.png" width=50% height=50%>
    
-   **Lazy loading annotaions**
+   **Lazy loading annotaion**
    
    * Lazy loading of courses in instructor entity.
    
    <img src="images/lazyloading.png" width=50% height=50%>
+   
+   **Eager loading annotaion**
+   
+   * Eager loading of courses in instructor entity.
+   
+   <img src="images/eagerloading.png" width=50% height=50%>
+   
+   **Retrieve Lazy data techninques**
+   
+   <img src="images/lazyloadingtechniques.png" width=50% height=50%>
+   
+   **Retrieve Lazy data techninques by HQL FETCH query**
+   
+   <img src="images/hqljointofetchdata.png" width=50% height=50%>
   
 
   
