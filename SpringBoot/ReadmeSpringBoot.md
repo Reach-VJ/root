@@ -1,4 +1,13 @@
 ### SpringBoot Demo
+**Many to Many relation Annotaion details**
+   
+* Course has many students.
+* Student has many courses.
+* Join table to maintain ManyToMany relation.
+   
+ <img src="images/manytomanyCourseStudents.png" width=50% height=50%>
+   
+ <img src="images/manytomanyStudentCourses.png" width=50% height=50%>
 
  **Primary Key** : Identify a unique row in a table.
  
