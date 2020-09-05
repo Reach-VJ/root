@@ -71,6 +71,12 @@ Links tables together
    **Default Fetch Type**
    
    <img src="images/defaultfetchtype.png" width=50% height=50%>
+   
+   **Lazy loading annotaions**
+   
+   * Lazy loading of courses in instructor entity.
+   
+   <img src="images/lazyloading.png" width=50% height=50%>
   
 
   
