@@ -37,11 +37,11 @@
    
   **Spring Values from application Properties**
  
-  <img src="images/appprps.png" width=50% height=50%>
+  <img src="images/appprops.png" width=50% height=50%>
   
-  <img src="images/appprps1.png" width=50% height=50%>
+  <img src="images/appprops1.png" width=50% height=50%>
   
-  <img src="images/appprps2.png" width=50% height=50%>
+  <img src="images/appprops2.png" width=50% height=50%>
   
   **webapp info**
   
