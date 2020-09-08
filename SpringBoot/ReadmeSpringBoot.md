@@ -73,5 +73,19 @@
    
    <img src="images/actuator5.png" width=50% height=50%>
    
- 
+   **Spring Boot Properties of differet componants**
+  
+   <img src="images/springprops.png" width=50% height=50%>
+  
+   <img src="images/springprops1.png" width=50% height=50%>
+   
+   <img src="images/springprops2.png" width=50% height=50%>
+  
+   <img src="images/springprops3.png" width=50% height=50%>
+   
+   <img src="images/springprops4.png" width=50% height=50%>
+   
+   <img src="images/springprops5.png" width=50% height=50%>
+   
+   <img src="images/springprops6.png" width=50% height=50%>
  ==============================================================
