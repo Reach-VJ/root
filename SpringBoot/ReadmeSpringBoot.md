@@ -27,7 +27,7 @@
   
    <img src="images/bootstrap1.png" width=50% height=50%>
    
-  **Spring Componant Scan **
+  **Spring Componant Scan**
  
   <img src="images/componentscan.png" width=50% height=50%>
   
