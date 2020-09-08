@@ -15,4 +15,8 @@
 
  <img src="images/mavenwrapperfiles.png" width=50% height=50%>
  
+ **Spring Application Config**
+ 
+  <img src="images/SpringApplicationConfig.png" width=50% height=50%>
+ 
  ==============================================================
