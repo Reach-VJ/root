@@ -51,8 +51,8 @@
    
    <img src="images/springbootadvantages2.png" width=50% height=50%>
   
-   <img src="images/springbootadvantages4.png" width=50% height=50%>
+   <img src="images/springbootadvantages3.png" width=50% height=50%>
    
-   <img src="images/springbootadvantages5.png" width=50% height=50%>
+   <img src="images/springbootadvantages4.png" width=50% height=50%>
  
  ==============================================================
