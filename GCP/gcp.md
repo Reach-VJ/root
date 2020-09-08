@@ -3,7 +3,9 @@
 Image push to docker hub --> $docker push bachi305/hello-world-rest-api:0.0.4-SNAPSHOT
 
 Login to docker hub --> $docker login  (pass dockerid and password)
+
 Find docker image details --> $docker images
+
 Run docker image --> $docker run -p 8080:8080 bachi305/hello-world-rest-api:0.0.4-SNAPSHOT
 
 ### GCloud Commands
