@@ -45,13 +45,13 @@
   
   **Spring Boot Advantages**
   
-    <img src="images/springbootadvantages.png" width=50% height=50%>
+   <img src="images/springbootadvantages.png" width=50% height=50%>
   
    <img src="images/springbootadvantages1.png" width=50% height=50%>
    
    <img src="images/springbootadvantages2.png" width=50% height=50%>
   
-     <img src="images/springbootadvantages4.png" width=50% height=50%>
+   <img src="images/springbootadvantages4.png" width=50% height=50%>
    
    <img src="images/springbootadvantages5.png" width=50% height=50%>
  
