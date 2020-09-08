@@ -1,4 +1,4 @@
-**Docker Commands**
+### Docker Commands
 
 Image push to docker hub --> $docker push bachi305/hello-world-rest-api:0.0.4-SNAPSHOT
 
@@ -6,13 +6,13 @@ Login to docker hub --> $docker login  (pass dockerid and password)
 Find docker image details --> $docker images
 Run docker image --> $docker run -p 8080:8080 bachi305/hello-world-rest-api:0.0.4-SNAPSHOT
 
-**GCloud Commands**
+### GCloud Commands
 
 Gcloud init -->$gcloud init
 GCloud login -->$gcloud auth login
 Project set -->$gcloud config set project springdemo-287600
 
-**KubeCtl Commands**
+### KubeCtl Commands
 
 Get pod -->$kubectl get pods
 Set to new image -->$kubectl set image deployment hello-world-rest-api hello-world-rest-api=bachi305/hello-world-rest-api:0.0.5-SNAPSHOT
@@ -40,10 +40,10 @@ Delete service and deployments -->$kubectl delete -f mysql-deployment.yaml,mysql
 Delete configmap -->$kubectl delete configmap todo-web-application-config
 Delete secret -->$kubectl delete secret todo-web-application-secrets
 
-**Misc Commands**
+### Misc Commands
 Continuous hitting url -->$watch curl http://34.121.69.123:8080/hello-world-bean
 
-**Config Map**
+### Config Map
 Create configMap -->$kubectl create configmap todo-web-application-config --from-literal=RDS_DB_NAME=todos
 Details about config details -->$kubectl describe configmap/todo-web-application-config
 Info about configMap -->$kubectl get configmap todo-web-application-config
