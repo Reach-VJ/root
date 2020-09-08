@@ -92,26 +92,22 @@
    **Spring Boot Various JPA Techniques**
   
    <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
-   <img src="images/springbootjpa.png" width=50% height=50%>
+   <img src="images/springbootjpa1.png" width=50% height=50%>
+   <img src="images/springbootjpa2.png" width=50% height=50%>
+   <img src="images/springbootjpa3.png" width=50% height=50%>
+   <img src="images/springbootjpa4.png" width=50% height=50%>
+   <img src="images/springbootjpa5.png" width=50% height=50%>
+   <img src="images/springbootjpa6.png" width=50% height=50%>
+   <img src="images/springbootjpa7.png" width=50% height=50%>
+   <img src="images/springbootjpa8.png" width=50% height=50%>
+   <img src="images/springbootjpa9.png" width=50% height=50%>
+   <img src="images/springbootjpa10.png" width=50% height=50%>
+   <img src="images/springbootjpa11.png" width=50% height=50%>
+   <img src="images/springbootjpa12.png" width=50% height=50%>
+   <img src="images/springbootjpa13.png" width=50% height=50%>
+   <img src="images/springbootjpa14.png" width=50% height=50%>
+   <img src="images/springbootjpa15.png" width=50% height=50%>
+   <img src="images/springbootjpa16.png" width=50% height=50%>
    
   
 
