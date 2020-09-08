@@ -109,7 +109,11 @@
    <img src="images/springbootjpa15.png" width=50% height=50%>
    <img src="images/springbootjpa16.png" width=50% height=50%>
    
-  
+   **Spring Boot Data Rest Info**
+   
+   <img src="images/springdatarest.png" width=50% height=50%>
+   <img src="images/springdatarest1.png" width=50% height=50%>
+   <img src="images/springdatarest2.png" width=50% height=50%>
 
    
    
