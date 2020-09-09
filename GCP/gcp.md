@@ -67,6 +67,10 @@
 
 **Delete secret** -->$kubectl delete secret todo-web-application-secrets
 
+**Get Pods Memory and CPU details** -->$kubectl top pods
+
+**Get all events** -->$kubectl get events
+
 ### Misc Commands
 
 **Continuous hitting url** -->$watch curl http://34.121.69.123:8080/hello-world-bean
@@ -81,3 +85,63 @@
 **Edit config map** -->$kubectl edit configmap/todo-web-application-config
 
 **Create Secrets** -->$kubectl create secret generic todo-web-application-secrets --from-literal=RDS_PASSWORD=dummytodos
+
+**Auto Scaling** 
+
+Increase number of nodes --> Cluster scaling
+
+Increase number of nodes --> Horizontal pod auto scaling
+
+Increase resource of pods --> Vertical pod auto scaling (Increase CPU and RAM size)
+
+## Auto Scaling
+
+### Cluster Auto Scaling
+
+```
+gcloud container clusters create example-cluster \
+--zone us-central1-a \
+--node-locations us-central1-a,us-central1-b,us-central1-f \
+--num-nodes 2 --enable-autoscaling --min-nodes 1 --max-nodes 4
+```
+### Vertical Pod Auto Scaling
+- Available in version 1.14.7-gke.10 or higher and in 1.15.4-gke.15 or higher
+
+#### Enable on Cluster
+
+```
+gcloud container clusters create [CLUSTER_NAME] --enable-vertical-pod-autoscaling --cluster-version=1.14.7
+gcloud container clusters update [CLUSTER-NAME] --enable-vertical-pod-autoscaling
+```
+
+#### Configure VPA
+
+```
+apiVersion: autoscaling.k8s.io/v1
+kind: VerticalPodAutoscaler
+metadata:
+  name: currency-exchange-vpa
+spec:
+  targetRef:
+    apiVersion: "apps/v1"
+    kind:       Deployment
+    name:       currency-exchange
+  updatePolicy:
+    updateMode: "Off"
+```
+
+#### Get Recommendations
+
+```
+kubectl get vpa currency-exchange-vpa --output yaml
+```
+
+### Horizontal Pod Auto Scaling
+
+```
+kubectl autoscale deployment currency-exchange-service --max=3 --min=1 --cpu-percent=50
+```
+
+
+
+
