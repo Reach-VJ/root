@@ -1,7 +1,7 @@
 ## SQL Tutorial
 
 <details><summary>SQL has four sub languages</summary>
-  <p>DDL - 
+  <p>DDL - Data definition language. 
 </details>
 
 
