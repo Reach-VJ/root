@@ -1,4 +1,8 @@
-##### **Hibernate Demo**
+##### **SQL Tutorial**
+
+* SQL has four sub languages
+* DDL, DQL, DML, DCL
+
 
  **Primary Key** : Identify a unique row in a table.
  
