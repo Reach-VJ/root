@@ -1,9 +1,7 @@
 ## SQL Tutorial
 
-* SQL has four sub languages
-
-<details><summary>DDL, DQL, DML, DCL</summary>
-* SQL has four sub languages
+<details><summary>SQL has four sub languages</summary>
+  <p>DDL - 
 </details>
 
 
