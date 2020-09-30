@@ -10,7 +10,7 @@ Links tables together
 * Ensures only valid data inserted into foreign key column. 
               
  **Cascade** : Apply the same operation to related entities. If data update or delete in parent table
-               should remove in the child too.
+               should reflect in the child too.
  
  **Data loading :**
  <p>    Eager : will retrieve everything.
