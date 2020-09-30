@@ -36,7 +36,7 @@ Links tables together
   
   <img src="images/entitylifecycle2.png" width=50% height=50%>
   
-  **One to One Cascase Types**
+  **One to One Cascade Types**
   
   <img src="images/one2onecascadetype.png" width=50% height=50%>
   
