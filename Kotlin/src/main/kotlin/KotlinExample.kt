@@ -1,3 +1,3 @@
 fun main() {
-  println("Welcome to new programming language, Kotlin123")
+  println("Welcome to new programming language, Kotlin")
 }
