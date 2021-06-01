@@ -1,3 +1,9 @@
+### Cluster : 
+    is combination of worker and master nodes. 
+    Nodes do the work called worker nodes. 
+    Nodes do management work called master node.
+
+
 ### Docker Commands
 
 **Image push to docker hub** --> $docker push bachi305/hello-world-rest-api:0.0.4-SNAPSHOT
