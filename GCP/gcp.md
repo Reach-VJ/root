@@ -1,8 +1,10 @@
+###Commands cheat sheet :
+    https://www.udemy.com/course/kubernetes-crash-course-for-java-developers/learn/lecture/16905478#overview
+
 ### Cluster : 
     is combination of worker and master nodes. 
     Nodes do the work called worker nodes. 
     Nodes do management work called master node.
-
 
 ### Docker Commands
 
@@ -22,8 +24,19 @@
 
 **Project set** -->$gcloud config set project springdemo-287600
 
+**Downsizing nodes**-->$gcloud container clusters resize --zone <name_of_zone> <name_of_your_cluster> --num-nodes=0
+**Increasing nodes**-->$gcloud container clusters resize --zone <name_of_zone> <name_of_your_cluster> --num-nodes=3
+
 ### KubeCtl Commands
 **Get pod** -->$kubectl get pods
+
+**Create deployment** -->$kubectl create deployment hello-world-rest-api --image=in28min/hello-world-rest-api:0.0.1.RELEASE
+
+**Expose deployment** -->$kubectl expose hello-world-rest-api --type=LoadBalancer --port=8080
+
+**Delete Service** -->$kubectl delete service hello-world-rest-api
+
+**Delete deployment** -->$kubectl delete deployment hello-world-rest-api
 
 **Set to new image** -->$kubectl set image deployment hello-world-rest-api hello-world-rest-api=bachi305/hello-world-rest-api:0.0.5-SNAPSHOT
 
